@@ -14,4 +14,6 @@ final class AudioMimeType
     public const AUDIO_MIDI = 'audio/midi';
     public const AUDIO_AIFF = 'audio/aiff';
     public const AUDIO_MKA = 'audio/x-matroska';
+    public const AUDIO_LINEAR_PCM = 'audio/L24';
+	public const AUDIO_MP4 audio = 'audio/mp4';
 }
